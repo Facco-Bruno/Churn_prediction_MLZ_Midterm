@@ -215,17 +215,3 @@ You can deploy this container on:
 
 Each platform can run your Docker image directly with minimal setup.
 
----
-
-## 🧑‍💻 Author
-
-**Your Name**  
-Machine Learning Engineer  
-📧 your.email@example.com  
-📦 [GitHub Repository](https://github.com/yourusername/streaming-churn-prediction)
-
----
-
-## 🏁 License
-
-This project is licensed under the MIT License.
